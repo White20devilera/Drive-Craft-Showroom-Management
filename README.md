@@ -24,6 +24,10 @@ One of the core architectures of **Drive Craft** is its granular security layer.
 
 ### 🔐 How It Works Under the Hood:
 1. **Cryptographic Verification:** When a user logs in, their password is instantly parsed through a **SHA-256 cryptographic hashing algorithm** and validated against the relational database.
+
+<img width="1087" height="107" alt="users" src="https://github.com/user-attachments/assets/2173d101-48f5-4730-8ba6-eb093041dd43" />
+
+
 2. **Dynamic UI Reconstruction:** Once authorized, the system interrogates the user's role status (`Admin` vs. `Sales_Staff`):
    * 👑 **Admin Privileges:** Grants full visibility. All system nodes—including **Business Analytics** (Matplotlib matrices) and **Vehicle Suppliers** (International Directory)—are constructed and mapped into the active viewport. Full data deletion rights are assigned.
    * 💼 **Sales Staff Restrictions:** To prevent intellectual property leaks and unauthorized data corruption, the engine **dynamically strips** management tabs from the active CustomTkinter compilation layer at runtime. Furthermore, the destructive `Delete Vehicle Record` button is completely purged (`pack_forget()`) from the DOM wrapper.
