@@ -1,8 +1,4 @@
-<p align="center">
-
-
-  <img src="<img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/cfe735b6-2e6d-4def-950e-661c8bd45098" />
-" alt="Drive Craft Logo" width="120" style="border-radius: 12px;"/>
+<p align="center"><img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/f08f1a97-21a9-4088-a8ca-9e66b7423099" />
 </p>
 
 <h1 align="center">DRIVE CRAFT</h1>
