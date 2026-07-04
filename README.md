@@ -46,6 +46,9 @@ One of the core architectures of **Drive Craft** is its granular security layer.
 <img width="1773" height="1026" alt="login" src="https://github.com/user-attachments/assets/e3ceeccb-15c4-41b7-9f6b-01496b44dc8b" />
 
 
+
+
+
 ### 📊 Centralized Fleet Inventory Dashboard
 Provides real-time fleet analytics tracking total stock capacity, availability status, vehicles sold, and collective showroom revenue. Features an interactive inventory database grid with instant multi-criteria searching (Brand/Model) and state filtering. It includes a dynamic preview pane that rendering high-fidelity vehicle visuals without redundant file duplication.
 
@@ -54,12 +57,18 @@ Provides real-time fleet analytics tracking total stock capacity, availability s
 <img width="1776" height="1026" alt="dashboard" src="https://github.com/user-attachments/assets/cb18deaa-4d7d-4656-825d-84fec683227f" />
 
 
+
+
+
 ### 🚨 Autonomous Smart Inventory Triggers
 Equipped with an integrated threshold-monitoring listener. The system automatically deploys system-wide visual alert notifications if the showroom's available stock descends beneath critical operational minimums, warning staff of immediate replenishment needs.
 
 [Low Stock Warning Protocol]
 
 <img width="1780" height="1027" alt="stock_warning" src="https://github.com/user-attachments/assets/8f53b834-a981-4b0d-8770-9cb5717d4bf8" />
+
+
+
 
 
 
@@ -87,12 +96,22 @@ A technical, comprehensive pipeline enabling incoming fleet registration. Accomm
 <img width="1776" height="1026" alt="add_vehicles" src="https://github.com/user-attachments/assets/1d21229e-efee-4e9f-9fc9-eb4b9b00ce2e" />
 
 
+
+
+
+
 ### 💰 Real-Time Transaction Ledger & Billing Terminal
 An advanced point-of-sale console parsing live user inputs through background arithmetic threads to evaluate agreed prices, initial advance commitments, and balance-due totals instantly. Features an embedded read-only live text preview of the transaction schema before formalizing commits.
 
 [Sales Processing Terminal]
 
 <img width="1782" height="1032" alt="sell_and_bill" src="https://github.com/user-attachments/assets/c896ac51-ae6c-470e-b1c5-a3f992120d70" />
+
+
+
+
+
+
 
 
 ### 🖨️ Automated Transaction Invoice Compilation
@@ -103,6 +122,11 @@ Simultaneously translates confirmed transaction states into a permanent relation
 <img width="1033" height="922" alt="generated_sales_invoice" src="https://github.com/user-attachments/assets/4f4f0ab6-72b3-4346-b0b9-e888ad527100" />
 
 
+
+
+
+
+
 ### 📜 Comprehensive Sales Audit Directory
 Maintains a full structural history log of prior dealership transactions. Integrates asynchronous live filtering protocols across multiple data-layer entries (Customer Names, NIC sequences, and explicit Sale IDs) and features an instant re-printing portal link.
 
@@ -111,12 +135,16 @@ Maintains a full structural history log of prior dealership transactions. Integr
 <img width="1782" height="1027" alt="sales_history" src="https://github.com/user-attachments/assets/ff27e408-2b82-4f7d-aec9-d31c13018c89" />
 
 
+
+
 ### 📈 Predictive Business Analytics Engine
 Integrates a dedicated scientific visualization panel powered by an isolated **Matplotlib matrix renderer**. Utilizes automated dynamic window listeners that auto-refresh upon tab selection to fetch fresh data queries, mapping out visual brand composition and revenue growth timelines seamlessly.
 
 [Matplotlib Data Visualization Panel]
 
 <img width="1781" height="1030" alt="business_analytics" src="https://github.com/user-attachments/assets/979d7a87-9c6d-4770-87de-1777bee4f5c3" />
+
+
 
 
 ### 🪪 International & Local Supplier Frameworks
