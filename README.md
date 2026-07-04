@@ -1,5 +1,6 @@
 <p align="center">
-  <!-- 🏢 Showroom Logo එක (උඹට කැමති වෙන පින්තූරයක් වුණත් දාන්න පුළුවන්) -->
+  <img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/72650cc1-9a92-426b-af29-a195f69966c4" />
+
   <img src="cars/no_image.png" alt="Drive Craft Logo" width="120" style="border-radius: 12px;"/>
 </p>
 
@@ -20,8 +21,19 @@
 
 ## 📸 System Walkthrough & Interface
 
-### 🔐 Secure Multi-Role Authentication
-Features dynamic secure login using **SHA-256 cryptographic password hashing**. Supports role-based access control (RBAC), automatically stripping management tabs (Analytics and Supplier Directory) and restrictive operations (such as record deletion) for ordinary `Sales_Staff` accounts while keeping full privilege capabilities locked for the `Admin`.
+## 🚨 Special Engineering Highlight: Role-Based Access Control (RBAC)
+
+One of the core architectures of **Drive Craft** is its granular security layer. Instead of creating multiple distinct software builds, the application utilizes a **dynamic runtime interface modification matrix** based on the authenticated user's organizational role.
+
+### 🔐 How It Works Under the Hood:
+1. **Cryptographic Verification:** When a user logs in, their password is instantly parsed through a **SHA-256 cryptographic hashing algorithm** and validated against the relational database.
+2. **Dynamic UI Reconstruction:** Once authorized, the system interrogates the user's role status (`Admin` vs. `Sales_Staff`):
+   * 👑 **Admin Privileges:** Grants full visibility. All system nodes—including **Business Analytics** (Matplotlib matrices) and **Vehicle Suppliers** (International Directory)—are constructed and mapped into the active viewport. Full data deletion rights are assigned.
+   * 💼 **Sales Staff Restrictions:** To prevent intellectual property leaks and unauthorized data corruption, the engine **dynamically strips** management tabs from the active CustomTkinter compilation layer at runtime. Furthermore, the destructive `Delete Vehicle Record` button is completely purged (`pack_forget()`) from the DOM wrapper.
+
+> ⚠️ **Security Protocol:** If a restricted account attempts to forcefully call unassigned directory threads, the stateful logic intercepts the trigger, maintains data isolation, and enforces access denial.
+
+---
 
 [Login Interface]
 
