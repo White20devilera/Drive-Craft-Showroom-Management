@@ -30,6 +30,11 @@ One of the core architectures of **Drive Craft** is its granular security layer.
 
 > ⚠️ **Security Protocol:** If a restricted account attempts to forcefully call unassigned directory threads, the stateful logic intercepts the trigger, maintains data isolation, and enforces access denial.
 
+
+### 💡 In Simple Terms:
+* **Admin Login:** Full access to all 6 tabs (including Analytics and Suppliers) + Data Deletion rights.
+* **Sales Staff Login:** Automatically blocks management access. The **Business Analytics** and **Vehicle Suppliers** tabs are completely hidden from the menu, and the **Delete** button is purged from the interface to protect database integrity.
+
 ---
 
 [Login Interface]
