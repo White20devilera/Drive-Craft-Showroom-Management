@@ -1,7 +1,8 @@
 <p align="center">
-  <img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/72650cc1-9a92-426b-af29-a195f69966c4" />
 
-  <img src="cars/no_image.png" alt="Drive Craft Logo" width="120" style="border-radius: 12px;"/>
+
+  <img src="<img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/cfe735b6-2e6d-4def-950e-661c8bd45098" />
+" alt="Drive Craft Logo" width="120" style="border-radius: 12px;"/>
 </p>
 
 <h1 align="center">DRIVE CRAFT</h1>
