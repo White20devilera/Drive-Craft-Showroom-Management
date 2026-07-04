@@ -50,7 +50,8 @@ Equipped with an integrated threshold-monitoring listener. The system automatica
 
 [Low Stock Warning Protocol]
 
-<img width="1777" height="1025" alt="stock_warning" src="https://github.com/user-attachments/assets/ff5d2785-7488-4896-afa6-882c71089e63" />
+<img width="1780" height="1027" alt="stock_warning" src="https://github.com/user-attachments/assets/8f53b834-a981-4b0d-8770-9cb5717d4bf8" />
+
 
 
 ### ⚙️ Full-Lifecycle Fleet Provisioning
