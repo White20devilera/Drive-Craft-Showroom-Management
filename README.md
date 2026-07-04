@@ -66,6 +66,22 @@ Equipped with an integrated threshold-monitoring listener. The system automatica
 ### ⚙️ Full-Lifecycle Fleet Provisioning
 A technical, comprehensive pipeline enabling incoming fleet registration. Accommodates granular vehicular technical specifications including fuel-cell architecture, precise engine displacement metrics, multi-tier transmission configurations, and premium accessory badge selection checkboxes.
 
+### 💡 In Simple Terms (Granular Technical Options):
+
+*   **⛽ Supported Fuel-Cell Architectures:** 
+    *   `Petrol` | `Hybrid` | `Diesel` | `Electric`
+*   **⚙️ Core Powertrain Metrics:** 
+    *   `Engine Capacity (CC)` (e.g., 1500 CC, 2000 CC)
+    *   `Transmission System` (`Automatic` | `Manual` | `Tiptronic`)
+*   **✨ Premium Optional Accessories Checklist:** 
+    *   `Leather Seats`
+    *   `Sunroof / Moonroof`
+    *   `Push Start / Smart Key`
+    *   `Alloy Wheels`
+    *   `Reverse Camera`
+*   **📸 Dynamic Pre-Commit Asset Preview:** 
+    *   Instantly renders and scales the selected vehicle image on the form UI container via Pillow (`ImageOps.pad`) so the manager can verify visual assets before executing the database write.
+
 [Add New Vehicle Framework]
 
 <img width="1776" height="1026" alt="add_vehicles" src="https://github.com/user-attachments/assets/1d21229e-efee-4e9f-9fc9-eb4b9b00ce2e" />
