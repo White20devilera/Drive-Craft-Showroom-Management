@@ -1,8 +1,22 @@
-# 🏎️ Drive Craft | Vehicle Showroom & Inventory Manager v1.0.0
+<p align="center">
+  <!-- 🏢 Showroom Logo එක (උඹට කැමති වෙන පින්තූරයක් වුණත් දාන්න පුළුවන්) -->
+  <img src="cars/no_image.png" alt="Drive Craft Logo" width="120" style="border-radius: 12px;"/>
+</p>
 
-An enterprise-grade, secure Desktop SaaS application tailored for automobile dealerships and showrooms in the Sri Lankan market. Built using an advanced asynchronous-like graphical layout via **CustomTkinter**, backed by a robust **MySQL relational database**, and featuring automatic compliance reporting, automated low-stock triggers, and professional transaction invoicing.
+<h1 align="center">DRIVE CRAFT</h1>
+<p align="center"><b>Vehicle Showroom & Inventory Manager v1.0.0</b></p>
+<p align="center">Enterprise Automobile Dealership Logistics & Billing Framework | Desktop Edition</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-0052CC?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GUI-CustomTkinter-00BFFF?style=flat-square" alt="GUI">
+  <img src="https://img.shields.io/badge/Database-MySQL-EA5B0C?style=flat-square&logo=mysql&logoColor=white" alt="Database">
+  <img src="https://img.shields.io/badge/Document_Engine-ReportLab-26A65B?style=flat-square" alt="ReportLab">
+  <img src="https://img.shields.io/badge/Status-Active-47A248?style=flat-square" alt="Status">
+</p>
 
 ---
+
 
 ## 📸 System Walkthrough & Interface
 
